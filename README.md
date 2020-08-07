@@ -1,4 +1,4 @@
 Python-For-Students
 ===================
 
-Repository for Python programming practice files
+Repository for Pythons programming practice files  
